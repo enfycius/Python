@@ -5,7 +5,7 @@
 <h1 align="center">Python Tutorials</h1>
 
 <p align="center">
-    A collection of projects, resources and Tutorials (etc) for learning Python
+    A collection of projects, resources and tutorials (etc) for learning Python
 </p>
 
 <p align="center">
